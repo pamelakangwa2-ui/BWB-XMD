@@ -1,5 +1,5 @@
 const settings = {
-  packname: 'BWB XMD',
+  packname: 'Knight Bot',
   author: '‎',
   botName: "BWB XMD",
   botOwner: 'Princetech', // Your name
