@@ -1,5 +1,5 @@
 /**
- * prince zms - A WhatsApp Bot
+ * prince tech - A WhatsApp Bot
  * Copyright (c) 2025 Professor
  * 
  * This program is free software: you can redistribute it and/or modify
