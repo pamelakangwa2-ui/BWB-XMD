@@ -154,7 +154,7 @@ async function startXeonBotInc() {
                             forwardingScore: 1,
                             isForwarded: true,
                             forwardedNewsletterMessageInfo: {
-                                newsletterJid: '120363161513685998@newsletter',
+                                newsletterJid: '120363398106360290@newsletter',
                                 newsletterName: 'BWB XMD',
                                 serverMessageId: -1
                             }
@@ -254,7 +254,7 @@ async function startXeonBotInc() {
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363161513685998@newsletter',
+                        newsletterJid: '120363398106360290@newsletter',
                         newsletterName: 'BWB XMD',
                         serverMessageId: -1
                     }
