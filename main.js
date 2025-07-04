@@ -12,13 +12,13 @@ const ffmpeg = require('fluent-ffmpeg');
 const { addWelcome, delWelcome, isWelcomeOn, addGoodbye, delGoodBye, isGoodByeOn } = require('./lib/index');
 
 // Command imports
-const tagAllCommand = require('./commands/tagall');
-const helpCommand = require('./commands/help');
-const banCommand = require('./commands/ban');
-const { promoteCommand } = require('./commands/promote');
-const { demoteCommand } = require('./commands/demote');
-const muteCommand = require('./commands/mute');
-const unmuteCommand = require('./commands/unmute');
+const tagAllCommand = require('./prince/prince-tagall');
+const helpCommand = require('./prince/prince-help');
+const banCommand = require('./prince/prince-ban');
+const { promoteCommand } = require('./prince/prince-promote');
+const { demoteCommand } = require('./prince/prince-demote');
+const muteCommand = require('./prince/prince-mute');
+const unmuteCommand = require('./prince/prince-unmute');
 const stickerCommand = require('./commands/sticker');
 const isAdmin = require('./lib/isAdmin');
 const warnCommand = require('./commands/warn');
