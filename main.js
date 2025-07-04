@@ -12,7 +12,6 @@ const ffmpeg = require('fluent-ffmpeg');
 const { addWelcome, delWelcome, isWelcomeOn, addGoodbye, delGoodBye, isGoodByeOn } = require('./lib/index');
 
 // Command imports
-const tagAllCommand = require('./prince/prince-tagall');
 const helpCommand = require('./prince/prince-help');
 const banCommand = require('./prince/prince-ban');
 const { promoteCommand } = require('./prince/prince-promote');
