@@ -42,7 +42,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-5.`RAILWAY</h4>`
+5.`RAILWAY`</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
 <p align="">
@@ -50,4 +50,4 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-  >THANKS ALLAH🌏🌏🌏🌏🌏
+ `**>THANKS ALLAH🌏🌏🌏🌏🌏**`
