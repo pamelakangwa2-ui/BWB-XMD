@@ -102,13 +102,13 @@
 
 
 {
-  "name": "Charles",
+  "name": "prince",
   "version": "2.0.0",
   "description": "WhatsApp Multi Device Bot",
-  "main": "bwb.js",
+  "main": "prince.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node bwb.js"
+    "start": "node prince.js"
   },
   "keywords": [
     "termux",
