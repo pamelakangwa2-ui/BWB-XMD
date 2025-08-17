@@ -1,9 +1,9 @@
 const settings = {
   packname: 'BWB XMD',
-  author: '‎',
+  author: '‎Doc Bwalya Robert',
   botName: "BWB XMD",
   botOwner: 'Princetech', // Your name
-  ownerNumber: '255763834140', //Set your number here without + symbol, just add country code & number without any space
+  ownerNumber: '255763834140', //260767071598
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   description: "This is a bot for managing group commands and automating tasks.",
