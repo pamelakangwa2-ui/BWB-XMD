@@ -2,7 +2,7 @@ const settings = {
   packname: 'BWB XMD',
   author: '‎Doc Bwalya Robert',
   botName: "BWB XMD",
-  botOwner: 'Princetech', // Your name
+  botOwner: 'DocBwalya', // DocRobert 
   ownerNumber: '255763834140', //260767071598
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
